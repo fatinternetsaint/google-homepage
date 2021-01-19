@@ -1,0 +1,1 @@
+I had to learn how to style buttons and the search bar on the side. So I learned that breaking down objectives makes things easier. It still left me with things to learn, but since the tutorial said not to get everything exact. I left just the looks.
